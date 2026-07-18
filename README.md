@@ -1,7 +1,8 @@
 # 🔀 Universal Extensible Data Migrator (UXDM)
 
-[![Build Status](https://travis-ci.org/rapidwebltd/uxdm.svg?branch=master)](https://travis-ci.org/rapidwebltd/uxdm)
-[![Coverage Status](https://coveralls.io/repos/github/rapidwebltd/uxdm/badge.svg?branch=master)](https://coveralls.io/github/rapidwebltd/uxdm?branch=master)
+> [!WARNING]
+> This package is retired and no longer maintained. Use [`jord-jd/uxdm`](https://packagist.org/packages/jord-jd/uxdm) instead. The maintained successor supports current PHP versions and includes the latest data-source, destination, validation, and transformation improvements.
+
 ![Packagist](https://img.shields.io/packagist/dt/rapidwebltd/uxdm.svg)
 
 UXDM helps developers migrate data from one system or format to another.
